@@ -6,14 +6,14 @@ Design systems define a collection of design patterns, component libraries and g
 Patterns are reusable combinations of components that solve common system problems. These best practice solutions 
 ensure consistency across systems.
 
-[**Pattern list**](./tools/tools.md)
+[**Pattern list**](./patterns/patterns.md)
 
 ## Components
 
 Components are the reusable building blocks of our design system. Each component meets a specific system need, and has
 been specifically created to work together rest of the system.
 
-[**Component list**](./tools/tools.md)
+[**Component list**](./components/components.md)
 
 ## Tools
 
